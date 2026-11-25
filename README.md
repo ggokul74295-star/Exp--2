@@ -1,4 +1,4 @@
-# Ex# Exp - 2 LIBRARY MANAGEMENT SYSTEM
+# Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
 # AIM:
 To develop the Library Management System using Star UML
